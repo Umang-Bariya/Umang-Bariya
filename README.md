@@ -48,7 +48,7 @@ I am Umang Bariya, a passionate full stack web developer from India. I am a seco
 </p>
 
 <p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=Umang-Bariya" alt="Visitor's count"/>
+<img src="https://komarev.com/ghpvc/?username=umang-bariya&label=Profile%20views&color=0e75b6&style=flat" alt="umang-bariya" />
 </p>
 
 <hr>
